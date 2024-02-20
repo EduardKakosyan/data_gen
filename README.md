@@ -3,7 +3,7 @@
 ### Overview
 The Database Generator Project is a tool designed to empower organizations to effortlessly create, manage, and manipulate their own databases. With an intuitive and user-friendly interface, organizations can create, make edits to their own DB and seamlessly navigate through various functions including importing data, viewing data, visualizing data, and exporting data.
 
-###Key Features
+### Key Features
 - Intuitive UI: The project boasts a simple and intuitive user interface, making it accessible to users of all levels of technical expertise.
 
 - Database Creation: Users can easily create their own customized databases tailored to their specific needs and requirements.
