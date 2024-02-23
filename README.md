@@ -1,5 +1,10 @@
 # Database Generator
-
+`version Alpha 1.0`
+<br>
+Authors:  <br>
+Eduard Kakosyan
+<br>
+Hao Tang
 ### Overview
 The Database Generator Project is a tool designed to empower organizations to effortlessly create, manage, and manipulate their own databases. With an intuitive and user-friendly interface, organizations can create, make edits to their own DB and seamlessly navigate through various functions including importing data, viewing data, visualizing data, and exporting data.
 
